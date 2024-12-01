@@ -1,0 +1,1 @@
+E220-900T22D/E220-900T22S python code tests for messing around with these new radios I got. Based on this [library](https://github.com/taogya/RPi_E220-900T22S_LoRa_library/blob/main/example/sample.py) sample code.
